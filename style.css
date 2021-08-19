@@ -8,12 +8,18 @@ body {
 
 .heading {
     display: flex; 
-    flex-direction: row;
+    flex-direction: column;
     justify-content: center;
     background-color: rgb(26, 21, 21);
     color: white;
     margin-right: 200px;
     margin-left: 200px;
+    padding: 20px;
+}
+
+.heading p a {
+    color: white;
+    text-decoration: none;
 }
 
 .personal-objective {
