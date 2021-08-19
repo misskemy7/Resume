@@ -1,0 +1,878 @@
+.logo img {
+    width: 200px;
+}
+
+body {
+    background-color: rgb(189, 185, 185);
+}
+
+.heading {
+    display: flex; 
+    flex-direction: row;
+    justify-content: center;
+    background-color: rgb(26, 21, 21);
+    color: white;
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.personal-objective {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.personal-objective p {
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+}
+
+.personal-contact-details {
+    margin-right: 200px;
+    margin-left: 200px;
+}
+
+.residential-address {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    
+}
+
+.number {
+    margin-left: 80px;
+}
+
+.contact-number {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.number2 {
+    margin-left: 100px;
+}
+
+.email-address {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.misskemy {
+    margin-left: 185px;
+}
+
+.date-of-birth {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.birth {
+    margin-left: 125px;
+}
+
+.citizenship {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.zenship {
+    margin-left: 145px;
+}
+
+.gender {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.der {
+    margin-left: 180px;
+} 
+
+.languages-spoken {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.spoken {
+    margin-left: 150px;
+}
+
+.university {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.versity {
+    margin-left: 110px;
+    font-weight: bold;
+}
+
+.course-of-study {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.study {
+    margin-left: 110px;
+}
+
+.degree-obtained {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.obtained {
+    margin-left: 110px; 
+}
+
+.duration {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.tion {
+    margin-left: 170px;
+}
+
+.secondary-education {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.education {
+    margin-left: 110px;
+    font-weight: bold;
+}
+
+.redemption-academy {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+ 
+.academy {
+    margin-left: 120px;
+    font-weight: bold;
+}
+
+.certificate-obtained {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.obtained2 {
+    margin-left: 80px;
+}
+
+.duration2 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.ration{
+    margin-left: 170px;
+}
+
+.primary-education {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+
+.education3 {
+    margin-left: 140px;
+    font-weight: bold;  
+}
+
+.guyoungtti {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.tti {
+    margin-left: 120px;
+    font-weight: bold;
+}
+
+.certificate-obtained3 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.obtained33 {
+    margin-left: 80px; 
+}
+
+.duration3 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.ration2 {
+    margin-left: 170px; 
+}
+
+.establishment {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+    font-weight: bold;
+}
+.by-mafit {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.IELTS {
+    margin-left: 90px;
+}
+
+.nigeria {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.role {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.manager {
+    margin-left: 280px;
+}
+
+.key-responsibility {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.responsibility {
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+.british-royal {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.royal {
+    margin-left: 100px;
+}
+
+.academy33 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 10px;
+    font-weight: bold;
+}
+
+.role2 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.manager2 {
+    margin-left: 280px;
+}
+
+.key-responsibility2 {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.2rem;
+    margin-top: 20px;
+}
+
+.responsibility2 {
+    margin-right: 220px;
+    margin-left: 220px;
+}
+
+.notable-awards-obtained p {
+    font-size: 1.3rem;
+    line-height: 1.8rem;
+}
+
+@media screen and (max-width: 320px) {
+    .body {
+        position: absolute;
+        margin-left: 10px;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    .heading {
+        width: 110%;
+        margin: 60px;
+        padding-left: 10px;
+    }
+
+    .heading h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .personal-objective {
+        margin: 60px;
+        width: 400px;
+    }
+
+    .personal-contact-details {
+        margin: 60px;
+        width: 400px;
+    }
+    
+    .number2 {
+         margin-right: 120px;
+    }
+
+    .misskemy {
+        margin-left: 130px;
+    }
+
+    .birth {
+        margin-left: 70px;
+    }
+
+    .zenship {
+        margin-left: 90px;
+    }
+
+    .der {
+        margin-left: 120px;
+    }
+
+    .spoken {
+        margin-left: 90px;
+    }
+
+    .educational-record {
+        width: 400px;
+        margin-top: 50px;
+    }
+
+    .obtained33 {
+        margin-left:  130px;
+    }
+
+    .work-experience {
+        margin-top: 50px;
+    }
+
+    .manager {
+        margin-left:  150px;
+    }
+    
+    .responsibility {
+        margin-left:  150px;
+    }
+
+    .manager2 {
+        margin-left:  170px;
+        width: 10%;
+    }
+
+    .responsibility2 {
+        margin-left:  150px;
+    }
+}
+
+@media screen and (max-width: 380px) and (min-width: 325px) {
+    .body {
+        position: relative;
+        margin-left: 10px;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    .heading {
+        width: 90%;
+        margin: 30px;
+        padding-left: 10px;
+    }
+
+    .heading h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .personal-objective {
+        margin: 30px;
+        width: 90%;
+    }
+
+    .personal-contact-details {
+        margin-left: 30px;
+        width: 350px;
+        margin-right: 50px;
+    }
+    
+    .number2 {
+         margin-right: 120px;
+    }
+
+    .misskemy {
+        margin-left: 70px;
+    }
+
+    .birth {
+        margin-left: 70px;
+    }
+
+    .zenship {
+        margin-left: 90px;
+    }
+
+    .der {
+        margin-left: 120px;
+    }
+
+    .spoken {
+        margin-left: 90px;
+    }
+
+    .educational-record {
+        width: 200px;
+        margin-top: 50px;
+    }
+
+    .obtained33 {
+        margin-left:  150px;
+    }
+
+    .work-experience {
+        margin-top: 50px;
+    }
+
+    .manager {
+        margin-left:  130px;
+    }
+    
+    .responsibility {
+        margin-left:  100px;
+    }
+
+    .manager2 {
+        margin-left:  130px;
+        width: 10%;
+    }
+
+    .responsibility2 {
+        margin-left:  80px;
+    }
+
+    .IELTS {
+        margin-left:  50px;
+    }
+
+    .royal {
+        margin-left:  80px;
+    }
+
+    .education3 {
+        margin-left:  80px;
+    }
+    
+    .tti {
+        margin-left:  80px;
+    }
+
+    .education {
+        margin-left:  80px;
+    }
+
+    .academy {
+        margin-left:  80px;
+    }
+
+    .versity {
+        margin-left:  80px;
+    }
+}    
+
+@media screen and (max-width: 425px) and (min-width: 382px) {
+    .body {
+        position: relative;
+        margin-left: 10px;
+        overflow-x: hidden;
+        box-sizing: border-box;
+    }
+    .heading {
+        width: 80%;
+        margin: 30px;
+        padding-left: 10px;
+    }
+
+    .heading h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .personal-objective {
+        margin: 30px;
+        width: 90%;
+    }
+
+    .personal-contact-details {
+        margin-left: 30px;
+        width: 350px;
+        margin-right: 50px;
+    }
+    
+    .number2 {
+         margin-right: 120px;
+    }
+
+    .misskemy {
+        margin-left: 70px;
+    }
+
+    .birth {
+        margin-left: 70px;
+    }
+
+    .zenship {
+        margin-left: 90px;
+    }
+
+    .der {
+        margin-left: 120px;
+    }
+
+    .spoken {
+        margin-left: 90px;
+    }
+
+    .educational-record {
+        width: 200px;
+        margin-top: 50px;
+    }
+
+    .obtained33 {
+        margin-left:  150px;
+    }
+
+    .work-experience {
+        margin-top: 50px;
+    }
+
+    .manager {
+        margin-left:  130px;
+    }
+    
+    .responsibility {
+        margin-left:  100px;
+    }
+
+    .manager2 {
+        margin-left:  130px;
+        width: 10%;
+    }
+
+    .responsibility2 {
+        margin-left:  80px;
+    }
+
+    .IELTS {
+        margin-left:  50px;
+    }
+
+    .royal {
+        margin-left:  80px;
+    }
+
+    .education3 {
+        margin-left:  80px;
+    }
+    
+    .tti {
+        margin-left:  80px;
+    }
+
+    .education {
+        margin-left:  80px;
+    }
+
+    .academy {
+        margin-left:  80px;
+    }
+
+    .versity {
+        margin-left:  80px;
+    }
+}
+
+@media screen and (max-width: 769px) and (min-width: 428px) {
+    .heading {
+        width: 80%;
+        margin: 30px;
+        padding-left: 10px;
+    }
+
+    .heading h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .personal-objective {
+        margin: 30px;
+        width: 90%;
+    }
+
+    .personal-contact-details {
+        margin-left: 30px;
+        width: 600px;
+        margin-right: 50px;
+    }
+    
+    .number2 {
+         margin-right: 120px;
+    }
+
+    .misskemy {
+        margin-left: 180px;
+    }
+
+    .birth {
+        margin-left: 125px;
+    }
+
+    .zenship {
+        margin-left: 140px;
+    }
+
+    .der {
+        margin-left: 170px;
+    }
+
+    .spoken {
+        margin-left: 140px;
+    }
+
+    .educational-record {
+        width: 700px;
+        margin-top: 50px;
+    }
+
+    .obtained33 {
+        margin-left:  90px;
+    }
+
+    .work-experience {
+        margin-top: 50px;
+        width: 850px;
+    }
+
+    .manager {
+        margin-left:  170px;
+    }
+    
+    .responsibility {
+        margin-left:  100px;
+    }
+
+    .manager2 {
+        margin-left:  150px;
+        width: 10%;
+    }
+
+    .responsibility2 {
+        margin-left:  80px;
+    }
+
+    .IELTS {
+        margin-left:  50px;
+    }
+
+    .royal {
+        margin-left:  80px;
+    }
+
+    .education3 {
+        margin-left:  100px;
+    }
+    
+    .tti {
+        margin-left:  100px;
+    }
+
+    .education {
+        margin-left:  80px;
+    }
+
+    .academy {
+        margin-left:  80px;
+    }
+
+    .versity {
+        margin-left:  80px;
+    }
+
+    .notable-awards-obtained {
+        width: 700px;
+    }
+}
+
+@media screen and (max-width: 1024px) and (min-width: 769px) {
+    .heading {
+        width: 80%;
+        margin: 30px;
+        padding-left: 10px;
+    }
+
+    .heading h1 {
+        padding-left: 10px;
+        padding-right: 10px;
+    }
+
+    .personal-objective {
+        margin: 30px;
+        width: 90%;
+    }
+
+    .personal-contact-details {
+        margin-left: 30px;
+        width: 600px;
+        margin-right: 50px;
+    }
+    
+    .number2 {
+         margin-right: 120px;
+    }
+
+    .misskemy {
+        margin-left: 180px;
+    }
+
+    .birth {
+        margin-left: 125px;
+    }
+
+    .zenship {
+        margin-left: 140px;
+    }
+
+    .der {
+        margin-left: 170px;
+    }
+
+    .spoken {
+        margin-left: 140px;
+    }
+
+    .educational-record {
+        width: 700px;
+        margin-top: 50px;
+    }
+
+    .obtained33 {
+        margin-left:  90px;
+    }
+
+    .work-experience {
+        margin-top: 50px;
+        width: 850px;
+    }
+
+    .manager {
+        margin-left:  170px;
+    }
+    
+    .responsibility {
+        margin-left:  100px;
+    }
+
+    .manager2 {
+        margin-left:  150px;
+        width: 10%;
+    }
+
+    .responsibility2 {
+        margin-left:  80px;
+    }
+
+    .IELTS {
+        margin-left:  50px;
+    }
+
+    .royal {
+        margin-left:  80px;
+    }
+
+    .education3 {
+        margin-left:  100px;
+    }
+    
+    .tti {
+        margin-left:  100px;
+    }
+
+    .education {
+        margin-left:  80px;
+    }
+
+    .academy {
+        margin-left:  80px;
+    }
+
+    .versity {
+        margin-left:  80px;
+    }
+
+    .notable-awards-obtained {
+        width: 700px;
+    }
+}
